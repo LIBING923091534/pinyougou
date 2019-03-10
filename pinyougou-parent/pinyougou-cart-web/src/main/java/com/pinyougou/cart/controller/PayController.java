@@ -19,6 +19,7 @@ import util.IdWorker;
 @RequestMapping("/pay")
 public class PayController {
 	
+	
 	@Reference
 	private WeixinPayService weixinPayService;
 	
