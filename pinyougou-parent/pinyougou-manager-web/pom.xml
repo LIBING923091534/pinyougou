@@ -8,6 +8,7 @@
   <artifactId>pinyougou-manager-web</artifactId>
   <packaging>war</packaging>
   
+  
     <dependencies>
     <!-- Spring -->
 	<dependency>
